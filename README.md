@@ -12,7 +12,7 @@ Ce projet vise à simuler une infrastructure PME sécurisée reposant sur des bo
 
 ## 🎯 Objectifs
 
-- Concevoir une architecture segmentée (LAN_SERVER / LAN_USER / ADMIN / DMZ / VPN)
+- Concevoir une architecture segmentée
 - Implémenter un firewall en haute disponibilité (CARP)
 - Assurer la continuité de service
 - Mettre en place un accès distant sécurisé (VPN)
