@@ -80,7 +80,7 @@ Ce projet vise à simuler une infrastructure PME sécurisée reposant sur des bo
 
 ## 🛠 Technologies utilisées
 
-Windows Server · Active Directory · pfSense · OpenVPN · Squid · Snort · Proxmox · Veeam · Centreon · Windows Admin Center · Cockpit
+Windows Server · Active Directory · DHCP · pfSense · OpenVPN · Squid · Snort · Proxmox · Veeam · Centreon · Windows Admin Center · Cockpit · WDS/MDT · GLPI · MariaDB · NextCloud
   
 ## 🚀 Évolutions possibles
 
