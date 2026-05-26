@@ -34,7 +34,7 @@ Ce projet vise à simuler une infrastructure PME sécurisée reposant sur des bo
 - Hyperviseur : Proxmox
 - Active Directory en redondance
 - DNS & DHCP en redondance
-- Segmentation des services (LAN_SERVER / LAN_USER / ADMIN)
+- Segmentation des services (NET_SERVER / NET_USER / NET_ADMIN / NET_DMZ)
   
 ### 🌐 DMZ
 - Service collaboratif (Nextcloud)
@@ -80,7 +80,7 @@ Ce projet vise à simuler une infrastructure PME sécurisée reposant sur des bo
 
 ## 🛠 Technologies utilisées
 
-Windows Server · Active Directory · DHCP · pfSense · OpenVPN · Squid · Snort · Proxmox · Veeam · Centreon · Windows Admin Center · Cockpit · WDS/MDT · GLPI · MariaDB · NextCloud
+Windows Server · Active Directory · DHCP · pfSense · OpenVPN · Squid · Snort · Proxmox · Veeam · Centreon · Windows Admin Center · WDS/MDT · GLPI · MariaDB · NextCloud
   
 ## 🚀 Évolutions possibles
 
