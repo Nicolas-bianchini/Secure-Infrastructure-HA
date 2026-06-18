@@ -1,90 +1,39 @@
 # 🏗 Infrastructure sécurisée haute disponibilité
 
-Architecture réseau segmentée et virtualisée intégrant firewall en haute disponibilité (CARP), accès VPN sécurisé, proxy web, services isolés en DMZ et détection d'intrusion.
+Projet d’infrastructure sécurisée et hautement disponible, réalisé dans le cadre de mon BTS SIO option SISR.
 
 ---
 
-## 📌 Présentation
+## 🎯 Objectif
 
-Ce projet vise à simuler une infrastructure PME sécurisée reposant sur des bonnes pratiques réseau, systèmes et sécurité.
+Concevoir une infrastructure complète simulant un environnement professionnel avec :
 
----
-
-## 🎯 Objectifs
-
-- Concevoir une architecture segmentée
-- Implémenter un firewall en haute disponibilité (CARP)
-- Assurer la continuité de service
-- Mettre en place un accès distant sécurisé (VPN)
-- Mettre en œuvre des contrôles de sécurité réseau
-- Superviser et sauvegarder l’infrastructure
-- Documenter l’ensemble de l’infrastructure
-
----
-
-## 🏗 Architecture technique
-
-### 🔥 Couche réseau
-- Firewall HA (CARP) avec synchronisation des états
-- Segmentation réseau via bridges virtuels
-- Filtrage inter-réseau
-- NAT
-
-### 🖥 Couche infrastructure
-- Hyperviseur : Proxmox
-- Active Directory en redondance
-- DNS & DHCP en redondance
-- Segmentation des services (NET_SERVER / NET_USER / NET_ADMIN / NET_DMZ)
-  
-### 🌐 DMZ
-- Service collaboratif (Nextcloud)
-
-  ---
-
-## 🛡 Contrôles de sécurité
-
-### 🔥 Filtrage & segmentation
-- Règles firewall inter-réseau
-- Isolation DMZ
-
-### 🌍 Contrôle des flux sortants
-- Proxy Squid (filtrage web)
-
-### 🚨 Détection d’intrusion
-- Snort (IDS/IPS)
-
-### 🔐 Accès distant
-- VPN OpenVPN sécurisé
-
----
-
-## 💾 Supervision & continuité
-
-- Sauvegarde via Veeam
-- Supervision via Centreon
-
----
-
-## 🧠 Compétences développées
-
-| Domaine | Compétences |
-|----------|------------|
-| Architecture réseau | Segmentation, isolation DMZ |
-| Haute disponibilité | CARP, basculement |
-| Administration systèmes | AD, GPO, DNS, DHCP |
-| Sécurité | Firewalling, Proxy, IDS/IPS |
-| Virtualisation | Proxmox |
-| Continuité | Sauvegarde & supervision |
+- haute disponibilité ;
+- segmentation réseau ;
+- services Windows Server ;
+- accès distant sécurisé ;
+- supervision ;
+- sauvegarde ;
+- sécurité réseau.
 
 ---
 
 ## 🛠 Technologies utilisées
 
-Windows Server · Active Directory · DHCP · pfSense · OpenVPN · Squid · Snort · Proxmox · Veeam · Centreon · Windows Admin Center · WDS/MDT · GLPI · MariaDB · NextCloud
+- Proxmox
+- pfSense
+- CARP
+- Active Directory
+- DNS / DHCP
+- OpenVPN
+- Snort
+- Squid
+- Centreon
+- Veeam Backup
+- Nextcloud
+- WDS / MDT
   
-## 🚀 Évolutions possibles
+## 🚀 État du projet
 
-- Centralisation des logs (SIEM)
-- Durcissement avancé des serveurs
-- Automatisation PowerShell
+Le projet est en cours de documentation.
 
