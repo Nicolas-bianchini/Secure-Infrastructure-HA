@@ -2,6 +2,19 @@
 
 Projet d’infrastructure sécurisée et hautement disponible, réalisé dans le cadre de mon BTS SIO option SISR.
 
+L'objectif est de concevoir une architecture proche d'un environnement professionnel en intégrant la virtualisation, la segmentation réseau, la haute disponibilité, la supervision, les sauvegardes et plusieurs mécanismes de sécurité.
+
+Ce projet me permet d'approfondir les domaines suivants :
+
+- Administration systèmes Windows Server et Debian ;
+- Virtualisation avec Proxmox ;
+- Pare-feu et routage avec pfSense ;
+- Active Directory, DNS et DHCP ;
+- VPN et accès distants sécurisés ;
+- Segmentation réseau ;
+- Détection d'intrusion ;
+- Supervision et surveillance ;
+- Sauvegarde et continuité de service.
 ---
 
 ## 🎯 Objectif
