@@ -74,7 +74,7 @@ L'objectif est de reproduire une infrastructure professionnelle intégrant :
 - L'exposition contrôlée de services.
 
 ### Architecture logique
-
+![Architecture globale](images/schema-infrastructure.png)
 
 
 
