@@ -111,23 +111,36 @@ L'infrastructure intègre plusieurs services permettant de garantir la disponibi
 | Sauvegarde | Veeam Backup | Protection et restauration des données |
 | Service collaboratif | Nextcloud | Partage et stockage de fichiers |
 | Déploiement | MDT / WDS | Installation automatisée des postes |
-| Analyse réseau | Wireshark | Analyse et diagnostic du trafic |
+| Analyse réseau | Wireshark / Tcpdump | Analyse et diagnostic du trafic |
 | Administration distante | Windows Admin Center / SSH / RSAT | Gestion des serveurs |
+| DMZ | Réseau isolé | Hébergement des services exposés |
 
 
-### Services assurés
+### Fonctionnalités mises en œuvre
 
-- Authentification centralisée ;
-- Attribution dynamique des adresses IP ;
-- Résolution de noms ;
-- Sauvegarde et restauration ;
-- Supervision avec alertes ;
-- Accès distant sécurisé ;
-- Détection d'intrusion ;
-- Filtrage des flux réseau ;
-- Partage de fichiers ;
-- Déploiement automatisé des postes ;
-- Analyse du trafic réseau.
+✅ Haute disponibilité des pare-feux avec CARP
+
+✅ Segmentation réseau
+
+✅ Authentification centralisée avec Active Directory
+
+✅ Services DNS et DHCP
+
+✅ VPN sécurisé pour les accès distants
+
+✅ Détection et prévention des intrusions
+
+✅ Filtrage du trafic Web
+
+✅ Supervision de l'infrastructure avec alertes
+
+✅ Sauvegarde et restauration des services critiques
+
+✅ Déploiement automatisé des postes Windows
+
+✅ Exposition contrôlée de services en DMZ
+
+✅ Analyse et diagnostic réseau
 
 
 ---
