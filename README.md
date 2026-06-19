@@ -245,6 +245,34 @@ Wireshark et Tcpdump sont utilisés pour :
 - la résolution d'incidents ;
 - la compréhension des flux entre les équipements.
 
+---
+
+## <a id="compétences-développées"></a>🧠 Compétences développées
+
+Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans les domaines des systèmes, des réseaux et de la cybersécurité.
+
+| Domaine | Compétences acquises |
+|-----------|-----------|
+| 🖥️ Système | Installation et administration de Windows Server et Debian, Active Directory, DNS, DHCP, GPO |
+| 🌐 Réseau | Plan d'adressage, routage, segmentation par sous-réseaux, règles de pare-feu, NAT |
+| ☁️ Virtualisation | Déploiement et administration d'un environnement Proxmox |
+| 🔥 Sécurité | pfSense, DMZ, OpenVPN, Snort, Squid, filtrage réseau, Certificat TLS |
+| ♻️ Haute disponibilité | Mise en place de pfSense HA avec CARP |
+| 📊 Supervision | Surveillance des équipements et services avec Centreon |
+| 💾 Sauvegarde | Mise en œuvre de Veeam Backup et stratégies de restauration |
+| 🚀 Déploiement | Déploiement automatisé de postes Windows avec MDT et WDS |
+| 🔍 Diagnostic | Analyse du trafic réseau avec Wireshark et résolution d'incidents |
+| 📚 Documentation | Réalisation de schémas, documentation technique et procédures d'administration |
+
+### Objectifs pédagogiques
+
+- Concevoir une infrastructure sécurisée proche d'un environnement professionnel ;
+- Garantir la disponibilité des services ;
+- Renforcer la sécurité du système d'information ;
+- Développer des compétences en administration systèmes et réseaux ;
+- Approfondir les concepts de cybersécurité et de continuité de service.
+
+
 
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
