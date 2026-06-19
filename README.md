@@ -143,9 +143,21 @@ L'infrastructure intègre plusieurs services permettant de garantir la disponibi
 
 ✅ Analyse et diagnostic réseau
 
-
 ---
 
+## <a id="sécurité-mise-en-œuvre"></a>🔒 Sécurité mise en œuvre
+
+Plusieurs mécanismes de sécurité ont été mis en place afin de garantir la confidentialité, l'intégrité et la disponibilité des services.
+
+### 🛡️ Segmentation réseau
+
+
+
+
+
+
+
+---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
 Le projet est en cours de documentation.
