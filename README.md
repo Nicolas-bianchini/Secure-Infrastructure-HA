@@ -17,6 +17,18 @@ Ce projet me permet d'approfondir les domaines suivants :
 - Sauvegarde et continuité de service.
 ---
 
+## Sommaire
+
+- [Objectif](#objectif)
+- [Technologies utilisées](#technologies-utilisées)
+- [Architecture](#architecture)
+- [Services déployés](#services-déployés)
+- [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
+- [Compétences développées](#compétences-développées)
+- [État du projet](#état-du-projet)
+
+---
+
 ## 🎯 Objectif
 
 Concevoir une infrastructure complète simulant un environnement professionnel avec :
