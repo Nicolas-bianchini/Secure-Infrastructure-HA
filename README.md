@@ -151,11 +151,17 @@ Plusieurs mécanismes de sécurité ont été mis en place afin de garantir la c
 
 ### 🛡️ Segmentation réseau
 
+L'infrastructure est organisée en plusieurs sous-réseaux distincts afin de séparer les différents périmètres et de limiter les mouvements latéraux en cas de compromission.
 
+Les différents réseaux permettent notamment de distinguer :
 
+- le réseau utilisateurs ;
+- le réseau serveurs ;
+- le réseau d'administration ;
+- la DMZ ;
+- le réseau WAN.
 
-
-
+Cette séparation améliore la sécurité globale de l'infrastructure et facilite le contrôle des communications entre les différents services.
 
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
