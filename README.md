@@ -19,8 +19,8 @@ Ce projet me permet d'approfondir les domaines suivants :
 
 ## Sommaire
 
-- [Objectif](#objectif)
-- [Technologies utilisées](#technologies-utilisées)
+- [Objectif](#Objectif)
+- [Technologies utilisées](#Technologies-utilisées)
 - [Architecture](#architecture)
 - [Services déployés](#services-déployés)
 - [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
