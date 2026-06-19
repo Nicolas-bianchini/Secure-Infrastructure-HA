@@ -61,6 +61,25 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 
 ## <a id="architecture"></a>🏗️ Architecture
 
+L'infrastructure est basée sur un hyperviseur Proxmox hébergeant plusieurs machines virtuelles réparties dans différents réseaux segmentés.
+
+L'objectif est de reproduire une infrastructure professionnelle intégrant :
+
+- La haute disponibilité ;
+- La segmentation réseau ;
+- L'administration centralisée ;
+- La supervision ;
+- Les sauvegardes ;
+- La sécurité des accès ;
+- L'exposition contrôlée de services.
+
+### Architecture logique
+
+
+
+
+
+
 ---
 
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
