@@ -63,7 +63,7 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 
 ---
 
-## <a id="architecture"></a>🚀 État du projet                                         
+## <a id="état-du-projet"></a>🚀 État du projet                                         
 
 Le projet est en cours de documentation.
 
