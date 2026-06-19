@@ -18,9 +18,9 @@ Ce projet me permet d'approfondir les domaines suivants :
 ---
 
 ## Sommaire
-- [🎯 Objectif](#objectif)
-- [🛠️ Technologies utilisées](#technologies-utilisees)
-- [🏗️ Architecture](#architecture)
+- [Objectif](#objectif)
+- [Technologies utilisées](#technologies-utilisees)
+- [Architecture](#architecture)
 - [Services déployés](#services-déployés)
 - [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
 - [Compétences développées](#compétences-développées)
