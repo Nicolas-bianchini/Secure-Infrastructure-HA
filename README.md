@@ -48,7 +48,7 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 - Proxmox
 - pfSense
 - CARP
-- Active Directory
+- Active Directory / ADCS
 - DNS / DHCP
 - OpenVPN
 - Snort
@@ -104,6 +104,7 @@ L'infrastructure intègre plusieurs services permettant de garantir la disponibi
 | Pare-feu | pfSense | Filtrage, routage et sécurisation des flux |
 | Haute disponibilité | CARP | Continuité de service des pare-feux |
 | Annuaire | Active Directory | Authentification centralisée des utilisateurs |
+| Authorité de Certification | ADCS | Garantir l'authenticité des entités et garantir la confidentalité et l'intégrité des données échangées.
 | DNS | Windows Server | Résolution de noms |
 | DHCP | Windows Server | Attribution automatique des adresses IP |
 | VPN | OpenVPN | Accès distant sécurisé |
