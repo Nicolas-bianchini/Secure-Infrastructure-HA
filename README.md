@@ -163,6 +163,16 @@ Les différents réseaux permettent notamment de distinguer :
 
 Cette séparation améliore la sécurité globale de l'infrastructure et facilite le contrôle des communications entre les différents services.
 
+### 🔥 Pare-feu et haute disponibilité
+
+Deux pare-feux pfSense fonctionnent en haute disponibilité grâce au protocole CARP, Les états de connexion sont égalements synchronisés entre les pare-feux grâce au protocole pfSync.
+
+Cette architecture permet :
+
+- d'assurer la continuité de service ;
+- d'éviter un point de défaillance unique ;
+- de maintenir la disponibilité du réseau en cas de panne d'un pare-feu.
+
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
