@@ -92,7 +92,31 @@ L'objectif est de reproduire une infrastructure professionnelle intégrant :
 
 ---
 
+## <a id="services-deployes"></a>🖥️ Services déployés
 
+L'infrastructure intègre plusieurs services permettant de garantir la disponibilité, la sécurité et l'administration centralisée du système d'information.
+
+| Service | Technologie | Rôle |
+|-----------|------------|------|
+| Hyperviseur | Proxmox VE | Hébergement et gestion des machines virtuelles |
+| Pare-feu | pfSense | Filtrage, routage et sécurisation des flux |
+| Haute disponibilité | CARP | Continuité de service des pare-feux |
+| Annuaire | Active Directory | Authentification centralisée des utilisateurs |
+| DNS | Windows Server | Résolution de noms |
+| DHCP | Windows Server | Attribution automatique des adresses IP |
+| VPN | OpenVPN | Accès distant sécurisé |
+| IDS / IPS | Snort | Détection et prévention des intrusions |
+| Proxy | Squid | Contrôle et filtrage du trafic web |
+| Supervision | Centreon | Surveillance de l'infrastructure |
+| Sauvegarde | Veeam Backup | Protection et restauration des données |
+| Service collaboratif | Nextcloud | Partage et stockage de fichiers |
+| Déploiement | MDT / WDS | Installation automatisée des postes |
+| Analyse réseau | Wireshark | Analyse et diagnostic du trafic |
+| Administration distante | Windows Admin Center / SSH / RSAT | Gestion des serveurs |
+
+
+
+---
 
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
