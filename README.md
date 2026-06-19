@@ -92,7 +92,7 @@ L'objectif est de reproduire une infrastructure professionnelle intégrant :
 
 ---
 
-## <a id="services-deployes"></a>🖥️ Services déployés
+## <a id="services-déployés"></a>🖥️ Services déployés
 
 L'infrastructure intègre plusieurs services permettant de garantir la disponibilité, la sécurité et l'administration centralisée du système d'information.
 
