@@ -18,10 +18,9 @@ Ce projet me permet d'approfondir les domaines suivants :
 ---
 
 ## Sommaire
-
-- [Objectif](#🎯Objectif)
-- [Technologies utilisées](#Technologies-utilisées)
-- [Architecture](#architecture)
+- [🎯 Objectif](#objectif)
+- [🛠️ Technologies utilisées](#technologies-utilisees)
+- [🏗️ Architecture](#architecture)
 - [Services déployés](#services-déployés)
 - [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
 - [Compétences développées](#compétences-développées)
@@ -60,7 +59,7 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 
 ---
 
-## <a id="architecture"></a>🏗️ Architectur
+## <a id="architecture"></a>🏗️ Architecture
 
 ---
 
