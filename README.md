@@ -81,7 +81,7 @@ L'objectif est de reproduire une infrastructure professionnelle intégrant :
 
 - Virtualisation avec Proxmox ;
 - Haute disponibilité des pare-feux ;
-- Segmentation réseau par VLAN ;
+- Segmentation réseau par sous-réseaux ;
 - Administration centralisée via Active Directory ;
 - VPN pour les accès distants sécurisés ;
 - Détection d'intrusion ;
