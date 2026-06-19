@@ -115,6 +115,20 @@ L'infrastructure intègre plusieurs services permettant de garantir la disponibi
 | Administration distante | Windows Admin Center / SSH / RSAT | Gestion des serveurs |
 
 
+### Services assurés
+
+- Authentification centralisée ;
+- Attribution dynamique des adresses IP ;
+- Résolution de noms ;
+- Sauvegarde et restauration ;
+- Supervision avec alertes ;
+- Accès distant sécurisé ;
+- Détection d'intrusion ;
+- Filtrage des flux réseau ;
+- Partage de fichiers ;
+- Déploiement automatisé des postes ;
+- Analyse du trafic réseau.
+
 
 ---
 
