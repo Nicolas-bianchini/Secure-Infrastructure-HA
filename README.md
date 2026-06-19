@@ -73,14 +73,26 @@ L'objectif est de reproduire une infrastructure professionnelle intégrant :
 - La sécurité des accès ;
 - L'exposition contrôlée de services.
 
-### Architecture logique
-![Architecture globale](images/schema-infrastructure.png)
+### Schéma d'architecture
 
+![Architecture globale](images/Plateformes_Schéma.png)
 
+### Principales caractéristiques
 
+- Virtualisation avec Proxmox ;
+- Haute disponibilité des pare-feux ;
+- Segmentation réseau par VLAN ;
+- Administration centralisée via Active Directory ;
+- VPN pour les accès distants sécurisés ;
+- Détection d'intrusion ;
+- Supervision de l'infrastructure ;
+- Sauvegardes des services critiques ;
+- Exposition contrôlée des services via une DMZ.
 
 
 ---
+
+
 
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
