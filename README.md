@@ -162,7 +162,7 @@ Les différents réseaux permettent notamment de distinguer :
 - le réseau WAN.
 
 Cette séparation améliore la sécurité globale de l'infrastructure et facilite le contrôle des communications entre les différents services.
-
+---
 ### 🔥 Pare-feu et haute disponibilité
 
 Deux pare-feux pfSense fonctionnent en haute disponibilité grâce au protocole CARP, Les états de connexion sont égalements synchronisés entre les pare-feux grâce au protocole pfSync.
@@ -172,6 +172,77 @@ Cette architecture permet :
 - d'assurer la continuité de service ;
 - d'éviter un point de défaillance unique ;
 - de maintenir la disponibilité du réseau en cas de panne d'un pare-feu.
+---
+### 🌐 Accès distants sécurisés
+
+Les connexions externes sont sécurisées grâce à OpenVPN.
+
+Les accès distants permettent :
+
+- l'administration des équipements ;
+- l'accès aux ressources internes ;
+- la protection des communications via le chiffrement.
+---
+### 🚨 Détection et prévention des intrusions
+
+Snort est utilisé afin d'analyser le trafic réseau et détecter d'éventuelles activités malveillantes.
+
+Fonctions assurées :
+
+- analyse des paquets ;
+- détection des signatures connues ;
+- génération d'alertes ;
+- prévention des attaques.
+---
+### 🌍 Filtrage Web
+
+Squid permet de contrôler les flux HTTP et HTTPS.
+
+Objectifs :
+
+- filtrer les accès ;
+- contrôler la navigation ;
+- renforcer la sécurité des utilisateurs.
+---
+### 📦 Sauvegarde et continuité de service
+
+Veeam Backup assure la protection des machines virtuelles et des données critiques.
+
+Les sauvegardes permettent :
+
+- la restauration rapide des services ;
+- la limitation des pertes de données ;
+- l'amélioration de la continuité d'activité.
+---
+### 📊 Supervision et alertes
+
+Centreon permet de surveiller l'état des équipements et des services.
+
+La supervision permet :
+
+- de détecter rapidement les incidents ;
+- d'être alerté en cas d'anomalie ;
+- de garantir la disponibilité de l'infrastructure.
+---
+### 🌐 DMZ
+
+Les services exposés sont isolés dans une zone démilitarisée (DMZ).
+
+Cette séparation permet :
+
+- de limiter l'exposition du réseau interne ;
+- d'améliorer la sécurité globale ;
+- de contrôler les flux entre les différents réseaux.
+---
+### 🔍 Analyse réseau
+
+Wireshark et Tcpdump sont utilisés pour :
+
+- l'analyse des trames ;
+- le diagnostic réseau ;
+- la résolution d'incidents ;
+- la compréhension des flux entre les équipements.
+
 
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
