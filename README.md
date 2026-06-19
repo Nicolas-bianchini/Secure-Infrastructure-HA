@@ -24,6 +24,7 @@ Ce projet me permet d'approfondir les domaines suivants :
 - [Services déployés](#services-déployés)
 - [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
 - [Compétences développées](#compétences-développées)
+- [Captures d'écran](#captures-ecran)
 - [État du projet](#état-du-projet)
 
 ---
@@ -272,6 +273,11 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 - Développer des compétences en administration systèmes et réseaux ;
 - Approfondir les concepts de cybersécurité et de continuité de service.
 
+---
+
+## <a id="captures-ecran"></a>📸 Captures d'écran
+
+### 🖥️ Hyperviseur Proxmox
 
 
 ---
