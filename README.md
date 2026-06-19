@@ -43,7 +43,7 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 
 ---
 
-## 🛠 Technologies utilisées
+## <a id="technologies-utilisees"></a>🛠️ Technologies utilisées
 
 - Proxmox
 - pfSense
@@ -57,7 +57,13 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 - Veeam Backup
 - Nextcloud
 - WDS / MDT
-  
+
+---
+
+## <a id="architecture"></a>🏗️ Architectur
+
+---
+
 ## 🚀 État du projet
 
 Le projet est en cours de documentation.
