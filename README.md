@@ -56,6 +56,7 @@ Concevoir une infrastructure complète simulant un environnement professionnel a
 - Veeam Backup
 - Nextcloud
 - WDS / MDT
+- Windows Admin Center
 
 ---
 
