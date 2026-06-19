@@ -19,7 +19,7 @@ Ce projet me permet d'approfondir les domaines suivants :
 
 ## Sommaire
 
-- [Objectif](#Objectif)
+- [Objectif](#🎯Objectif)
 - [Technologies utilisées](#Technologies-utilisées)
 - [Architecture](#architecture)
 - [Services déployés](#services-déployés)
