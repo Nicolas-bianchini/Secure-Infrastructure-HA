@@ -161,7 +161,9 @@ Les différents réseaux permettent notamment de distinguer :
 - la DMZ ;
 - le réseau WAN.
 
-Cette séparation améliore la sécurité globale de l'infrastructure et facilite le contrôle des communications entre les différents services.
+Cette séparation améliore la sécurité globale de l'infrastructure et facilite le contrôle des communications entre les différents services. 
+
+
 ---
 ### 🔥 Pare-feu et haute disponibilité
 
