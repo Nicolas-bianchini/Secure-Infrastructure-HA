@@ -278,8 +278,8 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ## <a id="captures-ecran"></a>📸 Captures d'écran
 
-### 🖥️ Hyperviseur Proxmox
-(images/Plateformes_Schéma.png)
+### ![🖥️Hyperviseur Proxmox](images/Plateformes_Schéma.png)
+
 
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
