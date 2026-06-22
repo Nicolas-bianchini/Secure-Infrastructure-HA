@@ -278,9 +278,13 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ## <a id="captures-ecran"></a>📸 Captures d'écran
 
-### 🖥️Hyperviseur Proxmox
+### 🖥️ Proxmox
 
 ![](images/MENU_PROXMOX.png)
+
+### 🔥 pfSense HA + CARP
+
+![](images/VIP%20PFSENSE.png)
 
 
 ---
