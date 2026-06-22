@@ -285,6 +285,7 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 ### 🔥 pfSense HA + CARP
 
 ![](images/VIP%20PFSENSE.png)
+![](images/STATUS%20MASTER%20PF1.png)
 
 
 ---
