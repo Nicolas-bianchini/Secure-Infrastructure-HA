@@ -346,6 +346,8 @@ Plusieurs groupes de sécurité ont été créés afin de mettre en œuvre une g
 
 ![](images/AGDLP%20NEXTCLOUD.png)
 
+**Description :**
+
 Les utilisateurs autorisés à accéder aux services sont gérés au travers de groupes Active Directory dédiés. Cette méthode permet de centraliser les droits d'accès et de simplifier l'administration des différents services tels qu'OpenVPN, Nextcloud ou GLPI.
 
 La méthode AGDLP est utilisée afin de bien structurer les droits d'accès et d'en faciliter la gestion sur la durée.
