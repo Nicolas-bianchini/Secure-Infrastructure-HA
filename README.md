@@ -25,6 +25,17 @@ Ce projet me permet d'approfondir les domaines suivants :
 - [Sécurité mise en œuvre](#sécurité-mise-en-œuvre)
 - [Compétences développées](#compétences-développées)
 - [Captures d'écran](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
+  - [pfSense HA](#captures-ecran)
 - [État du projet](#état-du-projet)
 
 ---
@@ -578,7 +589,7 @@ Cette automatisation permet de réduire les interventions manuelles et de garant
 
 ---
 
-### 🚀 Améliorations futures
+## <a id="améliorations-futures"></a>🚀 Améliorations futures
 
 - [ ] Déploiement d'un SIEM Wazuh
 - [ ] Centralisation des logs
@@ -592,7 +603,7 @@ Cette automatisation permet de réduire les interventions manuelles et de garant
 
 ---
 
-## 👨‍💻 Auteur
+## <a id="auteur"></a>👨‍💻 Auteur
 
 Nicolas Bianchini
 
