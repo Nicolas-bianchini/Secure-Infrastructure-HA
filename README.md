@@ -578,7 +578,7 @@ Cette automatisation permet de réduire les interventions manuelles et de garant
 
 ---
 
-## 🚀 Améliorations futures
+### 🚀 Améliorations futures
 
 - [ ] Déploiement d'un SIEM Wazuh
 - [ ] Centralisation des logs
@@ -592,7 +592,7 @@ Cette automatisation permet de réduire les interventions manuelles et de garant
 
 ---
 
-👨‍💻 Auteur
+## 👨‍💻 Auteur
 
 Nicolas Bianchini
 
