@@ -279,13 +279,13 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 ## <a id="captures-ecran"></a>📸 Captures d'écran
 
 ### 🖥️ Proxmox
-
+Hyperviseur de niveau 1 sur lequel repose mon infrastructure virtualisée.
 ![](images/MENU_PROXMOX.png)
 
 ---
 
 ### 🔥 Haute disponibilité des pare-feux pfSense avec CARP et PSYNC
-
+L'infrastructure repose sur deux pare-feux pfSense configurés en haute disponibilité afin de garantir la continuité de service et d'éliminer les points de défaillance uniques.
 ![](images/VIP%20PFSENSE.png)
 
 **Description :**
