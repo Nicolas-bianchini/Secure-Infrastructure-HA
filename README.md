@@ -449,6 +449,10 @@ Le tableau de bord Centreon permet de visualiser l'utilisation des ressources de
 Cette supervision facilite l'analyse des performances et l'identification des anomalies potentielles.
 
 ---
+### 💾 Sauvegarde et continuité de service avec Veeam Backup
+
+L'infrastructure intègre Veeam Backup afin de protéger les serveurs critiques et d'assurer la continuité de service en cas d'incident ou de perte de données.
+
 
 
 ---
