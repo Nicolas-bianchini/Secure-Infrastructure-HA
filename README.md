@@ -477,12 +477,33 @@ L'infrastructure intègre un serveur Nextcloud hébergé dans une DMZ afin de pr
 
 ![](images/Interface%20WEB%20NEXTCLOUD.png)
 
-
-
-
 **Description :**
 
 Nextcloud fournit une interface web permettant aux utilisateurs d'accéder à leurs fichiers et de bénéficier de fonctionnalités collaboratives similaires à celles des solutions de stockage cloud professionnelles.
+
+![](images/DOSSIERS%20NEXTCLOUD.png)
+
+**Description :**
+
+Les utilisateurs peuvent stocker, organiser et partager leurs données au sein de l'infrastructure. Cette solution facilite la collaboration tout en conservant le contrôle des données au sein du système d'information.
+
+![](images/LDAPS%20NEXTCLOUD.png)
+
+**Description :**
+
+Nextcloud est intégré à Active Directory au moyen du protocole LDAPS (LDAP sécurisé). Cette configuration permet aux utilisateurs du domaine de s'authentifier directement avec leurs identifiants Windows tout en assurant le chiffrement des échanges.
+
+![](images/Connexion%20HTTPS.png)
+
+**Description :**
+
+Le service Nextcloud est protégé par un certificat SSL/TLS permettant d'assurer la confidentialité et l'intégrité des communications entre les utilisateurs et le serveur.
+
+Les échanges sont chiffrés et le certificat est reconnu comme valide au sein de l'infrastructure.
+
+---
+
+
 
 
 
