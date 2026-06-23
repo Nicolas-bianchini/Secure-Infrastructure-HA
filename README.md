@@ -505,15 +505,31 @@ Les échanges sont chiffrés et le certificat est reconnu comme valide au sein d
 
 ### 🚦 Filtrage des flux et règles de sécurité avec pfSense
 
+L'infrastructure s'appuie sur pfSense afin d'assurer le routage, la segmentation des réseaux et le contrôle des communications entre les différents services.
 
+![](images/NAT%20FIREWALL.png)
 
+**Description :**
 
+Le pare-feu pfSense assure la traduction d'adresses (NAT) des différents sous-réseaux de l'infrastructure vers le réseau WAN.
 
+Les réseaux internes sont regroupés à l'aide d'alias afin de simplifier l'administration et la gestion des règles.
 
+![](images/RULES%20FIREWALL%20ALLOW%20NET%20SERVER.png)
 
+**Description :**
 
+Des règles de pare-feu spécifiques ont été mises en place afin de contrôler les communications entre les différents sous-réseaux.
 
+![](images/RULES%20FIREWALL%20ALLOW%OPENVPN.png)
 
+**Description :**
+
+Une règle spécifique sur l'interface WAN permet d'autoriser les connexions au serveur OpenVPN.
+
+Les utilisateurs externes peuvent ainsi accéder de manière sécurisée aux ressources internes au travers d'un tunnel VPN chiffré.
+
+---
 
 
 ---
