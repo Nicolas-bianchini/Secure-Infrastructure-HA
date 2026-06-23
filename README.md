@@ -286,7 +286,9 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ![](images/VIP%20PFSENSE.png)
 ![](images/STATUS%20MASTER%20PF1.png)
-![](images/STATUS%20MASTER%20PF2.png)
+![](images/STATUS%20BACKUP%20PF2.png)
+![](images/PSYNC.png)
+![](images/XMLRPC%20SYNC.png)
 
 
 ---
