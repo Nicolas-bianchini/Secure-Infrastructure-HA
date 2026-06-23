@@ -576,6 +576,38 @@ Les séquences de tâches permettent d'automatiser l'ensemble du processus d'ins
 
 Cette automatisation permet de réduire les interventions manuelles et de garantir des déploiements reproductibles.
 
+---
+
+## 🚀 Améliorations futures
+
+- [ ] Déploiement d'un SIEM Wazuh
+- [ ] Centralisation des logs
+- [ ] Mise en place d'un MFA
+- [ ] Durcissement des serveurs Windows
+- [ ] Mise en place d'un serveur Syslog
+- [ ] Automatisation PowerShell
+- [ ] Déploiement d'un cluster Proxmox
+- [ ] Sauvegarde externalisée
+- [ ] Supervision avancée
+
+---
+
+👨‍💻 Auteur
+
+Nicolas Bianchini
+
+Étudiant Bachelor Cybersécurité
+
+Passionné par :
+
+- Administration systèmes
+- Réseaux
+- Cybersécurité
+
+
+Objectif :
+
+Devenir ingénieur en cybersécurité.
 
 
 
