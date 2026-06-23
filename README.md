@@ -35,7 +35,8 @@ Ce projet me permet d'approfondir les domaines suivants :
   - [pfSense HA](#captures-ecran)
   - [pfSense HA](#captures-ecran)
   - [pfSense HA](#captures-ecran)
-  - [pfSense HA](#captures-ecran)
+- [Améliorations futures](#améliorations-futures)
+- [Auteur](#auteur)
 - [État du projet](#état-du-projet)
 
 ---
