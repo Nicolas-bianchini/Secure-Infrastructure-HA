@@ -332,6 +332,20 @@ Le second pare-feu est en attente dans le rôle BACKUP. En cas d'indisponibilit�
 
 L'infrastructure intègre deux contrôleurs de domaine Windows Server pour la redondance assurant l'authentification centralisée ainsi que l'administration des utilisateurs, des groupes et des ressources du système d'information.
 
+![](images/Arborescence%20AD.png)
+
+**Description :**
+
+L'Active Directory a été structuré à l'aide d'Unités d'Organisation (OU) permettant de séparer les utilisateurs, les serveurs, les postes et les groupes. Cette organisation facilite l'administration, l'application des stratégies de groupe et la gestion des droits.
+
+![](images/GROUPE%20AD%20GLPI.png)
+
+**Description :**
+
+Plusieurs groupes de sécurité ont été créés afin de mettre en œuvre une gestion des autorisations basée sur les rôles. Cette approche permet de simplifier l'administration et d'appliquer le principe du moindre privilège.
+
+
+
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
