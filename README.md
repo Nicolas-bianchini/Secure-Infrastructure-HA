@@ -384,7 +384,7 @@ Le pare-feu pfSense permet de superviser en temps réel les utilisateurs connect
 
 ---
 
-🚨 Détection d'intrusion avec Snort
+### 🚨 Détection d'intrusion avec Snort
 
 L'infrastructure intègre Snort afin d'assurer la détection des activités suspectes et de renforcer la sécurité du système d'information.
 
