@@ -282,9 +282,14 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ![](images/MENU_PROXMOX.png)
 
-### 🔥 pfSense HA + CARP
+### 🔥 Haute disponibilité des pare-feux pfSense avec CARP et PSYNC
 
 ![](images/VIP%20PFSENSE.png)
+
+**Description :**
+
+Mise en place de plusieurs adresses IP virtuelles CARP associées aux différents sous-réseaux de l'infrastructure. Ces adresses sont utilisées comme passerelles par les équipements et permettent d'assurer une bascule transparente en cas de défaillance du pare-feu principal.
+
 ![](images/STATUS%20MASTER%20PF1.png)
 ![](images/STATUS%20BACKUP%20PF2.png)
 ![](images/PSYNC.png)
