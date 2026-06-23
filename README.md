@@ -453,6 +453,27 @@ Cette supervision facilite l'analyse des performances et l'identification des an
 
 L'infrastructure intègre Veeam Backup afin de protéger les serveurs critiques et d'assurer la continuité de service en cas d'incident ou de perte de données.
 
+![](images/SAVE%20AD.png)
+
+**Description :**
+
+Veeam Backup est utilisé pour protéger les contrôleurs de domaine Active Directory de l'infrastructure. Les sauvegardes permettent de restaurer rapidement les services critiques en cas de défaillance ou de corruption des données.
+
+Les opérations de sauvegarde sont réalisées automatiquement et les résultats sont surveillés afin de garantir leur bon déroulement.
+
+
+![](images/SAVE%20LINUX%20VEEAM.png)
+
+**Description :**
+
+L'infrastructure intègre également la sauvegarde des serveurs Linux, notamment les services hébergeant les applications exposées. Cette stratégie permet d'assurer la disponibilité des données et de limiter les pertes en cas d'incident.
+
+Les sauvegardes sont effectuées avec l'agent Veeam Linux et leur état est supervisé afin de garantir leur réussite.
+
+---
+
+
+
 
 
 ---
