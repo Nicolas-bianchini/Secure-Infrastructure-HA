@@ -296,11 +296,13 @@ Mise en place de plusieurs adresses IP virtuelles CARP associées aux différent
 
 ![](images/PSYNC.png)
 
+
 **Description :**
 
 Le protocole pfsync permet de synchroniser dynamiquement les états des connexions entre les deux pare-feux. Ainsi, les sessions réseau en cours sont conservées lors d'une bascule, garantissant la continuité des communications.
 
 ![](images/XMLRPC%20SYNC.png)
+
 
 **Description :**
 
@@ -308,11 +310,14 @@ La synchronisation XMLRPC permet de répliquer automatiquement les règles de pa
 
 ![](images/STATUS%20MASTER%20PF1.png)
 
+
 **Description :**
 
 Le premier pare-feu est actuellement actif et possède le rôle MASTER sur l'ensemble des adresses IP virtuelles CARP. Il assure le traitement du trafic de l'infrastructure.
 
 ![](images/STATUS%20BACKUP%20PF2.png)
+
+
 **Description :**
 
 Le second pare-feu est en attente dans le rôle BACKUP. En cas d'indisponibilité du nœud principal, il prend automatiquement le relais afin de garantir la disponibilité des services et des communications réseau.
