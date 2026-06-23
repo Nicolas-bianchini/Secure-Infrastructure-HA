@@ -521,7 +521,7 @@ Les réseaux internes sont regroupés à l'aide d'alias afin de simplifier l'adm
 
 Des règles de pare-feu spécifiques ont été mises en place afin de contrôler les communications entre les différents sous-réseaux.
 
-![](images/RULES%20FIREWALL%20ALLOW%OPENVPN.png)
+![](images/RULES%20FIREWALL%20ALLOW%20OPENVPN.png)
 
 **Description :**
 
