@@ -530,6 +530,10 @@ Une règle spécifique sur l'interface WAN permet d'autoriser les connexions au 
 Les utilisateurs externes peuvent ainsi accéder de manière sécurisée aux ressources internes au travers d'un tunnel VPN chiffré.
 
 ---
+### 📡 Analyse réseau avec Wireshark
+
+Wireshark est utilisé afin d'observer et d'analyser les échanges réseau. Cet outil permet de comprendre le fonctionnement des protocoles et de diagnostiquer d'éventuels problèmes de communication.
+
 
 
 ---
