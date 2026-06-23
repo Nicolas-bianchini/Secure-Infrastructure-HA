@@ -384,6 +384,36 @@ Le pare-feu pfSense permet de superviser en temps réel les utilisateurs connect
 
 ---
 
+🚨 Détection d'intrusion avec Snort
+
+L'infrastructure intègre Snort afin d'assurer la détection des activités suspectes et de renforcer la sécurité du système d'information.
+
+![](images/SNORT%20ACTIVATION.png)
+
+**Description :**
+
+Snort a été déployé sur l'interface WAN du pare-feu pfSense afin d'analyser le trafic entrant et de détecter les activités malveillantes grâce à des signatures de sécurité.
+
+![](images/TEST%20PORT%20KALI.png)
+
+**Description :**
+
+Un scan de ports a été réalisé à l'aide de Nmap depuis une machine Linux afin de simuler une activité de reconnaissance réseau et de vérifier le bon fonctionnement du système de détection d'intrusion.
+
+![](images/ALERTE%20SCAN%20PORT%20SNORT.png)
+
+**Description :**
+
+Snort a correctement détecté l'activité de reconnaissance effectuée à l'aide de Nmap et a généré une alerte de sécurité indiquant une tentative de scan de ports.
+
+Cette détection permet d'identifier rapidement des comportements potentiellement malveillants et de renforcer la surveillance du réseau.
+
+---
+
+
+
+
+
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
