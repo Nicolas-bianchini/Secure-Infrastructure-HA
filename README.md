@@ -354,7 +354,7 @@ La méthode AGDLP est utilisée afin de bien structurer les droits d'accès et d
 
 ---
 
-🌐 Accès distant sécurisé avec OpenVPN
+### 🌐 Accès distant sécurisé avec OpenVPN
 
 L'infrastructure permet un accès distant sécurisé aux ressources internes grâce à OpenVPN. L'authentification des utilisateurs est centralisée via Active Directory et les communications sont chiffrées afin de garantir la confidentialité des échanges.
 
