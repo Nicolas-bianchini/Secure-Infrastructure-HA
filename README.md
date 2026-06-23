@@ -328,7 +328,7 @@ Le second pare-feu est en attente dans le rôle BACKUP. En cas d'indisponibilit�
 
 ---
 
-👥 Active Directory
+### 👥 Active Directory
 
 L'infrastructure intègre deux contrôleurs de domaine Windows Server pour la redondance assurant l'authentification centralisée ainsi que l'administration des utilisateurs, des groupes et des ressources du système d'information.
 
