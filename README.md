@@ -350,8 +350,37 @@ Les utilisateurs autorisés à accéder aux services sont gérés au travers de 
 
 La méthode AGDLP est utilisée afin de bien structurer les droits d'accès et d'en faciliter la gestion sur la durée.
 
+---
 
+🌐 Accès distant sécurisé avec OpenVPN
 
+L'infrastructure permet un accès distant sécurisé aux ressources internes grâce à OpenVPN. L'authentification des utilisateurs est centralisée via Active Directory et les communications sont chiffrées afin de garantir la confidentialité des échanges.
+
+![](images/GG%20VPN%20USERS%20AUTORISÉ.png)
+
+**Description :**
+
+Les utilisateurs autorisés à se connecter au VPN sont regroupés dans un groupe de sécurité Active Directory dédié. Cette approche permet de centraliser et de simplifier la gestion des accès.
+
+![](images/VPN%20INFO%20GENERAL.png)
+
+**Description :**
+
+Déploiement d'un serveur OpenVPN en mode Remote Access (User Auth) permettant aux utilisateurs autorisés d'accéder aux ressources du réseau interne via un tunnel VPN sécurisé.
+
+![](images/INFO%20POSTE%20CLIENT%20VPN.png)
+
+**Description :**
+
+Une fois connecté au VPN, le poste client reçoit automatiquement une adresse IP appartenant au réseau privé du tunnel VPN. Les communications avec les ressources internes sont alors sécurisées grâce au chiffrement du trafic.
+
+![](images/LOG%20UTILISATEURS%20CONNECTES.png)
+
+**Description :**
+
+Le pare-feu pfSense permet de superviser en temps réel les utilisateurs connectés au serveur OpenVPN ainsi que leur adresse virtuelle, le volume de données échangées et les algorithmes de chiffrement utilisés.
+
+---
 
 ---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
