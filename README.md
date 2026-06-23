@@ -290,7 +290,7 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ## <a id="captures-ecran"></a>📸 Captures d'écran
 
-### 🖥️ Proxmox
+## <a id="proxmox"></a>🖥️ Proxmox
 
 Hyperviseur de niveau 1 sur lequel repose mon infrastructure virtualisée.
 
@@ -298,7 +298,7 @@ Hyperviseur de niveau 1 sur lequel repose mon infrastructure virtualisée.
 
 ---
 
-### 🔥 Haute disponibilité des pare-feux pfSense avec CARP et PSYNC
+## <a id="high-availability"></a>🔥 Haute disponibilité des pare-feux pfSense avec CARP et PSYNC
 
 L'infrastructure repose sur deux pare-feux pfSense configurés en haute disponibilité afin de garantir la continuité de service et d'éliminer les points de défaillance uniques.
 
@@ -340,7 +340,7 @@ Le second pare-feu est en attente dans le rôle BACKUP. En cas d'indisponibilit�
 
 ---
 
-### 👥 Active Directory
+## <a id="active-directory"></a>👥 Active Directory
 
 L'infrastructure intègre deux contrôleurs de domaine Windows Server pour la redondance assurant l'authentification centralisée ainsi que l'administration des utilisateurs, des groupes et des ressources du système d'information.
 
@@ -366,7 +366,7 @@ La méthode AGDLP est utilisée afin de bien structurer les droits d'accès et d
 
 ---
 
-### 🌐 Accès distant sécurisé avec OpenVPN
+## <a id="openvpn"></a>🌐 Accès distant sécurisé avec OpenVPN
 
 L'infrastructure permet un accès distant sécurisé aux ressources internes grâce à OpenVPN. L'authentification des utilisateurs est centralisée via Active Directory et les communications sont chiffrées afin de garantir la confidentialité des échanges.
 
@@ -396,7 +396,7 @@ Le pare-feu pfSense permet de superviser en temps réel les utilisateurs connect
 
 ---
 
-### 🚨 Détection d'intrusion avec Snort
+## <a id="snort"></a>🚨 Détection d'intrusion avec Snort
 
 L'infrastructure intègre Snort afin d'assurer la détection des activités suspectes et de renforcer la sécurité du système d'information.
 
@@ -421,7 +421,7 @@ Snort a correctement détecté l'activité de reconnaissance effectuée à l'aid
 Cette détection permet d'identifier rapidement des comportements potentiellement malveillants et de renforcer la surveillance du réseau.
 
 ---
-### 📊 Supervision de l'infrastructure avec Centreon
+## <a id="centreon"></a>📊 Supervision de l'infrastructure avec Centreon 
 
 L'infrastructure intègre Centreon afin de superviser en temps réel les équipements, les services et les performances des différents serveurs. Cette supervision permet de détecter rapidement les anomalies et de garantir la disponibilité des services.
 
@@ -461,7 +461,7 @@ Le tableau de bord Centreon permet de visualiser l'utilisation des ressources de
 Cette supervision facilite l'analyse des performances et l'identification des anomalies potentielles.
 
 ---
-### 💾 Sauvegarde et continuité de service avec Veeam Backup
+## <a id="veeam"></a>💾 Sauvegarde et continuité de service avec Veeam Backup
 
 L'infrastructure intègre Veeam Backup afin de protéger les serveurs critiques et d'assurer la continuité de service en cas d'incident ou de perte de données.
 
@@ -483,7 +483,7 @@ L'infrastructure intègre également la sauvegarde des serveurs Linux, notamment
 Les sauvegardes sont effectuées avec l'agent Veeam Linux et leur état est supervisé afin de garantir leur réussite.
 
 ---
-### ☁️ Service collaboratif Nextcloud
+## <a id="nextcloud"></a>☁️ Service collaboratif Nextcloud
 
 L'infrastructure intègre un serveur Nextcloud hébergé dans une DMZ afin de proposer un service de stockage et de partage de fichiers accessible de manière sécurisée.
 
@@ -515,7 +515,7 @@ Les échanges sont chiffrés et le certificat est reconnu comme valide au sein d
 
 ---
 
-### 🚦 Filtrage des flux et règles de sécurité avec pfSense
+## <a id="rules-firewall"></a>🚦 Filtrage des flux et règles de sécurité avec pfSense
 
 L'infrastructure s'appuie sur pfSense afin d'assurer le routage, la segmentation des réseaux et le contrôle des communications entre les différents services.
 
@@ -542,7 +542,7 @@ Une règle spécifique sur l'interface WAN permet d'autoriser les connexions au 
 Les utilisateurs externes peuvent ainsi accéder de manière sécurisée aux ressources internes au travers d'un tunnel VPN chiffré.
 
 ---
-### 📡 Analyse réseau avec Wireshark
+## <a id="wireshark"></a>📡 Analyse réseau avec Wireshark
 
 Wireshark est utilisé afin d'observer et d'analyser les échanges réseau. Cet outil permet de comprendre le fonctionnement des protocoles et de diagnostiquer d'éventuels problèmes de communication.
 
@@ -555,7 +555,7 @@ Une requête DNS a été générée à l'aide de la commande :
 "nslookup google.fr"
 
 ---
-### 🖥️ Déploiement automatisé des postes avec MDT / WDS
+## <a id="mdt-wds"></a>🖥️ Déploiement automatisé des postes avec MDT / WDS
 
 L'infrastructure intègre Microsoft Deployment Toolkit (MDT) afin d'automatiser le déploiement des systèmes d'exploitation et des applications, tout en garantissant la standardisation des postes de travail.
 
