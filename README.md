@@ -563,6 +563,8 @@ Cette approche permet d'assurer une homogénéité des postes et de réduire le 
 
 ![](images/MDT%20TASK%20SEQUENCE.png)
 
+**Description :**
+
 Les séquences de tâches permettent d'automatiser l'ensemble du processus d'installation :
 
 - déploiement du système d'exploitation ;
