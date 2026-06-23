@@ -534,6 +534,14 @@ Les utilisateurs externes peuvent ainsi accéder de manière sécurisée aux res
 
 Wireshark est utilisé afin d'observer et d'analyser les échanges réseau. Cet outil permet de comprendre le fonctionnement des protocoles et de diagnostiquer d'éventuels problèmes de communication.
 
+![](images/WIRESHARK%20DNS.png)
+
+**Description :**
+
+Une requête DNS a été générée à l'aide de la commande :
+
+"nslookup google.fr"
+
 
 
 ---
