@@ -34,11 +34,10 @@ Ce projet me permet d'approfondir les domaines suivants :
   - [Veeam](#veeam)
   - [Nextcloud](#nextcloud)
   - [Règles de Pare-feu](#rules-firewall)
-  - [pfSense HA](#captures-ecran)
-  - [pfSense HA](#captures-ecran)
+  - [Wireshark](#wireshark)
+  - [Déploiement automatisé](#mdt-wds)
 - [Améliorations futures](#améliorations-futures)
 - [Auteur](#auteur)
-- [État du projet](#état-du-projet)
 
 ---
 
@@ -623,9 +622,4 @@ Objectif :
 Devenir ingénieur en cybersécurité.
 
 
-
----
-## <a id="état-du-projet"></a>🚀 État du projet                                         
-
-Le projet est en cours de documentation.
 
