@@ -282,7 +282,7 @@ Ce projet m'a permis de développer et d'approfondir plusieurs compétences dans
 
 ![](images/MENU_PROXMOX.png)
 
---
+---
 
 ### 🔥 Haute disponibilité des pare-feux pfSense avec CARP et PSYNC
 
