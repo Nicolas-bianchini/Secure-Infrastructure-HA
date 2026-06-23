@@ -542,6 +542,39 @@ Une requête DNS a été générée à l'aide de la commande :
 
 "nslookup google.fr"
 
+---
+### 🖥️ Déploiement automatisé des postes avec MDT / WDS
+
+L'infrastructure intègre Microsoft Deployment Toolkit (MDT) afin d'automatiser le déploiement des systèmes d'exploitation et des applications, tout en garantissant la standardisation des postes de travail.
+
+![](images/DEPLOYMENT%20SHARE%20OS.png)
+
+**Description :**
+
+Plusieurs images Windows ont été intégrées au Deployment Share afin de permettre le déploiement automatisé des postes clients et des serveurs.
+
+![](images/MDT%20APPLICATIONS.png)
+
+**Description :**
+
+Les applications nécessaires aux postes utilisateurs sont intégrées directement au Deployment Share afin d'automatiser leur installation lors du déploiement.
+
+Cette approche permet d'assurer une homogénéité des postes et de réduire le temps nécessaire à leur préparation.
+
+![](images/MDT%20TASK%20SEQUENCE.png)
+
+Les séquences de tâches permettent d'automatiser l'ensemble du processus d'installation :
+
+- déploiement du système d'exploitation ;
+- installation des applications ;
+- mises à jour ;
+- configuration du poste ;
+- restauration de l'état utilisateur ;
+- activation de BitLocker.
+
+Cette automatisation permet de réduire les interventions manuelles et de garantir des déploiements reproductibles.
+
+
 
 
 ---
