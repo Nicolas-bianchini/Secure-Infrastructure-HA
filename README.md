@@ -344,6 +344,13 @@ L'Active Directory a été structuré à l'aide d'Unités d'Organisation (OU) pe
 
 Plusieurs groupes de sécurité ont été créés afin de mettre en œuvre une gestion des autorisations basée sur les rôles. Cette approche permet de simplifier l'administration et d'appliquer le principe du moindre privilège.
 
+![](images/AGDLP%20NEXTCLOUD.png)
+
+Les utilisateurs autorisés à accéder aux services sont gérés au travers de groupes Active Directory dédiés. Cette méthode permet de centraliser les droits d'accès et de simplifier l'administration des différents services tels qu'OpenVPN, Nextcloud ou GLPI.
+
+La méthode AGDLP est utilisée afin de bien structurer les droits d'accès et d'en faciliter la gestion sur la durée.
+
+
 
 
 ---
