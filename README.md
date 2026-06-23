@@ -409,9 +409,46 @@ Snort a correctement détecté l'activité de reconnaissance effectuée à l'aid
 Cette détection permet d'identifier rapidement des comportements potentiellement malveillants et de renforcer la surveillance du réseau.
 
 ---
+### 📊 Supervision de l'infrastructure avec Centreon
+
+L'infrastructure intègre Centreon afin de superviser en temps réel les équipements, les services et les performances des différents serveurs. Cette supervision permet de détecter rapidement les anomalies et de garantir la disponibilité des services.
 
 
+![](images/Hôtes%20UP.png)
 
+**Description :**
+
+Centreon permet de surveiller l'état des différents équipements de l'infrastructure. Les contrôleurs de domaine, les pare-feux, les serveurs applicatifs et les services critiques sont supervisés en permanence afin de garantir leur disponibilité.
+
+
+![](images/Services%20Surveillées.png)
+
+**Description :**
+
+Les services essentiels de l'infrastructure sont surveillés en continu, notamment :
+
+- Active Directory ;
+- Veeam Backup ;
+- MariaDB ;
+- pfSense ;
+- NTP ;
+- Services Windows.
+
+Cette supervision permet de détecter rapidement les défaillances et d'améliorer la disponibilité du système d'information.
+
+![](images/Centreon%20Graphique.png)
+
+**Description :**
+
+Le tableau de bord Centreon permet de visualiser l'utilisation des ressources des différents serveurs, notamment :
+
+- l'utilisation du processeur ;
+- l'utilisation de la mémoire ;
+- les performances globales de l'infrastructure.
+
+Cette supervision facilite l'analyse des performances et l'identification des anomalies potentielles.
+
+---
 
 
 ---
