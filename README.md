@@ -503,6 +503,11 @@ Les échanges sont chiffrés et le certificat est reconnu comme valide au sein d
 
 ---
 
+### 🚦 Filtrage des flux et règles de sécurité avec pfSense
+
+
+
+
 
 
 
