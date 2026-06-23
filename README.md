@@ -327,6 +327,12 @@ Le premier pare-feu est actuellement actif et possède le rôle MASTER sur l'ens
 Le second pare-feu est en attente dans le rôle BACKUP. En cas d'indisponibilité du nœud principal, il prend automatiquement le relais afin de garantir la disponibilité des services et des communications réseau.
 
 ---
+
+👥 Active Directory
+
+L'infrastructure intègre deux contrôleurs de domaine Windows Server pour la redondance assurant l'authentification centralisée ainsi que l'administration des utilisateurs, des groupes et des ressources du système d'information.
+
+---
 ## <a id="état-du-projet"></a>🚀 État du projet                                         
 
 Le projet est en cours de documentation.
