@@ -476,6 +476,10 @@ Les sauvegardes sont effectuées avec l'agent Veeam Linux et leur état est supe
 L'infrastructure intègre un serveur Nextcloud hébergé dans une DMZ afin de proposer un service de stockage et de partage de fichiers accessible de manière sécurisée.
 
 ![](images/Interface%20WEB%20NEXTCLOUD.png)
+
+
+
+
 **Description :**
 
 Nextcloud fournit une interface web permettant aux utilisateurs d'accéder à leurs fichiers et de bénéficier de fonctionnalités collaboratives similaires à celles des solutions de stockage cloud professionnelles.
